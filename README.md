@@ -4,11 +4,10 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on E-Commerce App
-- 🌱 I’m currently learning Advanced Android Application Designing
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about Android Development|Java|Kotlin
+- 💡 Android Developer @ Satmat Technology  
+- 🔧 Working on app modifications, customer requirements & complaint resolutions  
+- 📲 Available for Android app support, bug fixes, and feature updates  
+- 💬 Open to freelance projects & collaborations  
 - 📫 How to reach me:https://www.linkedin.com/in/rupali-jadhav-139782218/
--Skills-
-   Java,Android Studio,Kotlin,SQLite,MySQL
+- Skills-
+   Java,Android Studio,Kotlin,Rest API, Android SDK, Payment Gateway, SQLite,MySQL
