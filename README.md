@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 💡 Android Developer @ Satmat Technology  
+- 💡 Android Application Developer @ Satmat Technology  
 - 🔧 Working on app modifications, customer requirements & complaint resolutions  
 - 📲 Available for Android app support, bug fixes, and feature updates  
 - 💬 Open to freelance projects & collaborations  
